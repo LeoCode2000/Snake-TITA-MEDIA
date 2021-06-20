@@ -1,0 +1,112 @@
+.containerOne {
+  background: #fc758c;
+  color: white;
+  padding: 120px;
+  text-align: center;
+}
+
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 30px;
+  position: relative;
+}
+
+p {
+  font-family: "Questrial", sans-serif;
+  font-size: 18px;
+  position: relative;
+}
+
+.boton1{
+  padding-top: 20px;
+}
+
+.boton1 button {
+  background: white;
+  border: none;
+  color: #fc758c;
+  font-family: "Questrial", sans-serif;
+  text-decoration: none;
+  font-size: 14px;
+  padding: 10px 20px;
+}
+.boton1 a{
+  text-decoration: none;
+  color:#fc758c ;
+}
+
+.boton1 a:hover{
+  background: #fc758c;
+  color: white;
+}
+
+.boton1 button:hover {
+  background: #fc758c;
+  color: white;
+}
+
+.boton2{
+  padding-top: 80px;
+}
+
+.boton2 button {
+  background: #fc758c;
+  border: none;
+  color: white;
+  font-family: "Questrial", sans-serif;
+  text-decoration: none;
+  font-size: 14px;
+  padding: 10px 20px;
+}
+
+.boton2 button:hover {
+  background: white;
+  color: #fc758c;
+}
+
+.list {
+  padding: 25px;
+  text-align: center;
+}
+
+.sections {
+  padding: 25px;
+  text-align: center;
+  font-family: "Questrial", sans-serif;
+}
+
+.sections a {
+  color: grey;
+  text-align: center;
+  padding: 12px 10px;
+  text-decoration: none;
+}
+
+.sections a:hover {
+  background: #fe667f;
+  color: white;
+}
+
+#equals {
+  color: #fe667f;
+  padding: 10px;
+}
+
+#gripFor{
+  color: #fe667f;
+  padding: 10px;
+}
+
+@media (max-width: 425px) {
+    .containerOne{
+      padding: 30px;
+    }
+
+    h1{
+      font-size: 20px;
+    }
+
+    p{
+      font-size: 16px;
+    }
+}

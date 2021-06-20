@@ -1,0 +1,30 @@
+.footer {
+    text-align: center;
+    color:grey;
+    font-family: 'Questrial', sans-serif;
+    font-size: 12px;
+    padding-top: 100px;
+    padding-bottom: 40px;
+}
+
+#facebook{
+    color: grey;
+    padding: 5px;
+}
+
+#twitter{
+    color: grey;
+    padding: 5px;
+}
+#instagram{
+    color: grey;
+    padding: 5px;
+}
+#gmail{
+    color: grey;
+    padding: 5px;
+}
+#youtube{
+    color: grey;
+    padding: 5px;
+}
