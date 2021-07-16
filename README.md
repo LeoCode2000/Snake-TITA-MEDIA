@@ -1,6 +1,6 @@
 # Snake-TITA-MEDIA
 
-Prueba tecnica TITA MEDIA:
+Prueba tecnica:
 
 Pagina web desarrollada en HTML5, estilos CSS y peticion a la API Unsplash mediante JavScript.
 
